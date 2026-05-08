@@ -13,7 +13,7 @@ The purpose of this project is to practice core web development concepts, includ
 
 
 ## Live Website + Docs Folder
-https://Always-MIA.github.io
+https://Always-MIA.github.io  
 https://github.com/Always-MIA/PersonalPortfolio/tree/ad57e41bd57933e8c244a3616643dd2173ce8220/docs
 
 ## Technologies Used
