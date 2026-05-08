@@ -12,9 +12,9 @@ The website presents basic information about my academic background, career inte
 The purpose of this project is to practice core web development concepts, including semantic HTML structure, external CSS styling, and version control using Git. It also provides experience deploying a live website through GitHub Pages.
 
 
-## Live Website
+## Live Website + Docs Folder
 https://Always-MIA.github.io
-
+https://github.com/Always-MIA/PersonalPortfolio/tree/ad57e41bd57933e8c244a3616643dd2173ce8220/docs
 
 ## Technologies Used
 - HTML
